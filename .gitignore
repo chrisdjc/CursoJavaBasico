@@ -208,6 +208,8 @@ hs_err_pid*
 *.code-workspace
 */out
 */.idea
+/out
+/.idea
 
 # Local History for Visual Studio Code
 .history/
