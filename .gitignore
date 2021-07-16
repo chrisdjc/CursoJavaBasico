@@ -206,8 +206,8 @@ hs_err_pid*
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-**/out/*
-**/.idea/*
+**/out
+**/.idea
 
 # Local History for Visual Studio Code
 .history/
